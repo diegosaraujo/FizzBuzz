@@ -1,6 +1,6 @@
 # FizzBuzz
 
-**TODO: Add description**
+**Projeto criado para testar e conhecer as funcionalidades do Elixir. Todos os passos e desafio proposto foram retirados do Curso do Rafael Camarda na Udemy.**
 
 ## Installation
 
