@@ -1,5 +1,5 @@
 defmodule FizzBuzz do
-  # função utilizando case só para ver como é
+  # função utilizando case só para ver como funciona
   def build(file_name) do
     case File.read(file_name) do
       {:ok, result} -> result
